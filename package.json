@@ -1,7 +1,7 @@
 {
-  "name": "angular-quickstart",
+  "name": "learn-coding-with-ibe",
   "version": "1.0.0",
-  "description": "QuickStart package.json from the documentation, supplemented with testing support",
+  "description": "web application that allows school children learn how to code and examples",
   "scripts": {
     "build": "tsc -p src/",
     "build:watch": "tsc -p src/ -w",
